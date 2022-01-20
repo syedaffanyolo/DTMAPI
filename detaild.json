@@ -3,7 +3,9 @@
    
     "vsdis": "Vasant Kunj Marg, Pocket 5, Sector B, Vasant Kunj, New Delhi",
     
-    "vsfloorimages":[""],
+    "vsfloorimages":["https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/VasantSquare_VasantKunjSB_.jpg",
+            "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/VasantSquare_VasantKunjFB_.jpg"
+    ],
    
     "vsfloors":4,
   
