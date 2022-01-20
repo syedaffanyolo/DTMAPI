@@ -1,0 +1,142 @@
+{
+    "dmshops":[""],
+            "dmshopphone":[],
+            "dmshopnumbers":1,
+            
+
+            
+            "lcshopslg":[
+
+                "Max",				
+                "Subway",
+                "Big bazaar",
+                "Reliance trends",
+                "Dunkin donuts",
+                "The nut lounge",
+                "Be in shape",
+                "Wheelys"
+
+            ],
+            "lcshopg":[
+
+                "Pantaloon",
+                "U.S. Polo",
+                "Apple I world",
+                "And",
+                "Forest essential",
+                "Shoppers stop",
+                "Nykaa",
+                "Chumbak",
+                "PC jewwlller",
+                "Kazo",
+                "Lenskart",
+                "Haldiram’s",
+                "Levi’s",
+                "Globus",
+                "Van Heusen",
+                "Louis Philippe",
+                "Cinnabon ",
+                "Hidesign",
+                "Hush puppies",
+                "Pepperfry studios",
+                "Inter",
+                "Chaayos",
+                "Vip",
+                "Zivame",
+                "Just watches",
+                "Iconic",
+                "Colorbar",
+                "Revlon",
+                "Sugar cosmetics",
+                "Theobroma",
+                "Costa coffee",
+                "Amazon",
+                "Mac"
+
+            ],
+            "lcshop1":[
+
+                "Reliance digital",
+               "Skechers",
+                "Biba",
+                "Lakshita",
+                "Go colors",
+                "Manyavar",
+                "Meena bazaar",
+                "Bonton",
+                "Global desi",
+                "W",
+                "Adidas",
+                "Croma",
+                "Bata",
+                "Mini so",
+                "Iconic kids",
+                "Crossword Bisto",
+                "Lotus"
+
+            ],
+
+            "lcshop2":[
+
+                "PVR superlex",
+                "New u",
+                "Archies",
+                "Fab India home",
+                "Looks",
+                "Fan India",
+                "Find Balluchi",
+                "Jungle jamboree",
+                "UP-16 cafe & bar",
+                "Beer cafe",
+                "Hamleys",
+                "Voylla",
+                "Dolce gelato"
+
+            ],
+
+            "lcshop3":[
+
+                "Keventers",
+                "Mad over donuts",
+                "Chicago’s pizza",
+                "Ice cream factory",
+                "Frozen stone",
+                "Burger King",
+                "Rolls King ",
+                "Wow momos",
+                "Biryani blues",
+                "Kebab Xpress",
+                "KFC",
+                "Pizza Hut",
+                "Vaango",
+                "Taco Bell",
+                "Ni hao",
+                "Moti mahal",
+                "The nasal trail",
+                "Baskin robins",
+                "Time zone"
+
+            ],
+
+            "lcshop4":[
+
+               "Sky house",
+                "I sacked newton",
+                "Ruin pub by imperfecto",
+                "The Flying Dutchmen"
+
+            ],
+            "lcshopphonelg":[11111,222222,3333333,4444444,555555,666666,777777,888888], 
+            "lcshopphoneg":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone1":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone2":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone3":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone4":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopnumbers":96,
+            "gpshopnumbers":1,
+            "gpshops":[""],
+            "gpshopphone":[],
+            "ggshopnumbers":1,
+            "ggshops":[""],
+            "ggshopphone":[]
+}

@@ -1,0 +1,332 @@
+{
+    
+            
+        
+
+
+        
+            "gvname": "The Grand Venice",
+            "gvdis": "Plot SH 3, Site IV near Pari Chowk, Greater Noida 201308",
+            "gvshops":[""],
+            "gvmallimage":"https://curlytales.com/wp-content/uploads/2017/04/5Q7A1940-e1492214264493-1280x720.jpg",
+            "gvfloorimages":[""],
+            "gvid":1,
+            "gvshopphone":[],
+            "gvfloors":4,
+            "gvshopnumbers":10,
+            
+        
+        
+            "mmname": "MSX Mall",
+            "mmdis": "Kasana Road Swarn Nagari,Greater noida, Greater Noida 201308 India",
+            "mmshops":[""],
+            "mmmallimage":"https://i.pinimg.com/originals/d0/95/21/d09521b71fc046a7e2e43da81e4c4caf.jpg",
+            "mmfloorimages":[""],
+            "mmid":2,
+            "mmshopphone":[],
+            "mmshopnumbers":10,
+            "mmfloors":4,
+            
+        
+        
+            "apname": "Ansal Plaza",
+            "apdis":"Noida - Gr. Noida expressway, Near Pari Chowk, Knowledge Park 1, Greater Noida",
+            "apshops":[""],
+            "apmallimage":"https://files.propertywala.com/photos/61/J290718411.aerial-view.74081l.jpg",
+            "apfloorimages":[""],
+            "apid":3,
+            "apshopphone":[],
+            "apshopnumbers":10,
+            "apfloors":4,
+            
+        
+        
+            "oaname": "Omaxe Arcade",
+            "oadis":"Pari Chowk, NRI City, Ansal Golf Link -1, Greater Noida",
+            "oashops":[""],
+            "oamallimage":"https://www.omaxe.com/projectgallery/gallery_1570187809346.jpg",
+            "oafloorimages":[""],
+            "oaid":4,
+            "oashopphone":[],
+            "oashopnumbers":5,
+            "oafloors":10,
+            
+
+            "dmname": "DLF Mall",
+            "dmdis": "Sector 18, Noida",
+            "lcname": "Logix City Center",
+            "lcdis": "Noida sector 32",
+            "dmmallimage":"https://static.toiimg.com/photo/59769969/.jpg",
+            "dmfloorimages":[""],
+            "dmid":5,
+            "dmfloors":4,
+            "dmshops":[""],
+            "dmshopphone":[],
+            "dmshopnumbers":1,
+            
+
+            
+            "lcshopslg":[
+
+                "Max",				
+                "Subway",
+                "Big bazaar",
+                "Reliance trends",
+                "Dunkin donuts",
+                "The nut lounge",
+                "Be in shape",
+                "Wheelys"
+
+            ],
+            "lcshopg":[
+
+                "Pantaloon",
+                "U.S. Polo",
+                "Apple I world",
+                "And",
+                "Forest essential",
+                "Shoppers stop",
+                "Nykaa",
+                "Chumbak",
+                "PC jewwlller",
+                "Kazo",
+                "Lenskart",
+                "Haldiram’s",
+                "Levi’s",
+                "Globus",
+                "Van Heusen",
+                "Louis Philippe",
+                "Cinnabon ",
+                "Hidesign",
+                "Hush puppies",
+                "Pepperfry studios",
+                "Inter",
+                "Chaayos",
+                "Vip",
+                "Zivame",
+                "Just watches",
+                "Iconic",
+                "Colorbar",
+                "Revlon",
+                "Sugar cosmetics",
+                "Theobroma",
+                "Costa coffee",
+                "Amazon",
+                "Mac"
+
+            ],
+            "lcshop1":[
+
+                "Reliance digital",
+               "Skechers",
+                "Biba",
+                "Lakshita",
+                "Go colors",
+                "Manyavar",
+                "Meena bazaar",
+                "Bonton",
+                "Global desi",
+                "W",
+                "Adidas",
+                "Croma",
+                "Bata",
+                "Mini so",
+                "Iconic kids",
+                "Crossword Bisto",
+                "Lotus"
+
+            ],
+
+            "lcshop2":[
+
+                "PVR superlex",
+                "New u",
+                "Archies",
+                "Fab India home",
+                "Looks",
+                "Fan India",
+                "Find Balluchi",
+                "Jungle jamboree",
+                "UP-16 cafe & bar",
+                "Beer cafe",
+                "Hamleys",
+                "Voylla",
+                "Dolce gelato"
+
+            ],
+
+            "lcshop3":[
+
+                "Keventers",
+                "Mad over donuts",
+                "Chicago’s pizza",
+                "Ice cream factory",
+                "Frozen stone",
+                "Burger King",
+                "Rolls King ",
+                "Wow momos",
+                "Biryani blues",
+                "Kebab Xpress",
+                "KFC",
+                "Pizza Hut",
+                "Vaango",
+                "Taco Bell",
+                "Ni hao",
+                "Moti mahal",
+                "The nasal trail",
+                "Baskin robins",
+                "Time zone"
+
+            ],
+
+            "lcshop4":[
+
+               "Sky house",
+                "I sacked newton",
+                "Ruin pub by imperfecto",
+                "The Flying Dutchmen"
+
+            ],
+            "lcmallimage":"https://static.toiimg.com/photo/59769789/.jpg",
+            "lcfloorimages":["https://www.resalepropertyinnoida.in/images/city-centre-lower-ground-floor-plan-big.jpg",
+                        "https://www.resalepropertyinnoida.in/images/city-centre-ground-floor-plan-big.jpg",
+                        "https://www.resalepropertyinnoida.in/images/city-centre-first-floor-plan-big.jpg"
+            ],
+            "lcid":6,
+            "lcfloors":6,
+            "lcfloornames":["LG","G","1","2","3","4"],
+            "lcshopphonelg":[11111,222222,3333333,4444444,555555,666666,777777,888888], 
+            "lcshopphoneg":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone1":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone2":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone3":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopphone4":[11111,222222,3333333,4444444,555555,666666,777777,888888],
+            "lcshopnumbers":96,
+            
+
+            "ggname": "Garden Galleria",
+            "ggdis": "Plot No, A2, Maharaja Agrasen Marg, Sector 38, Noida",
+            
+            "ggmallimage":"https://media-cdn.tripadvisor.com/media/photo-s/12/d9/31/d7/the-front-of-the-mall.jpg",
+            "ggfloorimages":[""],
+            "ggid":7,
+            
+            "ggfloors":4,
+            
+
+            "gpname": "GIP Mall",
+            "gpdis": "Sector 38, Noida",
+            
+            "gpmallimage":"https://www.namastedehradun.com/wp-content/uploads/2013/03/the-great-india-palace-dehradun.jpg",
+            "gpfloorimages":[""],
+            "gpid":8,
+            
+            "gpfloors":4,
+            "gpshopnumbers":1,
+            "gpshops":[""],
+            "gpshopphone":[],
+            "ggshopnumbers":1,
+            "ggshops":[""],
+            "ggshopphone":[],
+
+
+
+
+            "vsname": "Vasant Square",
+            "vsdis": "Vasant Kunj Marg, Pocket 5, Sector B, Vasant Kunj, New Delhi",
+            "vsshops":[""],
+            "vsmallimage":"https://www.leasing.net.in/public/projectimage/1447063095Vasant-Square-Mall-1.jpg",
+            "vsfloorimages":[""],
+            "vsid":9,
+            "vsfloors":4,
+            "vsshopphone":[],
+            "vsshopnumbers":1,
+            
+        
+        
+            "tcname": "The Chanakya",
+            "tcdis": "Yashwant Place Commercial Complex Opposite Chanakyapuri Post Office, Chanakyapuri, New Delhi",
+            "tcshops":[""],
+            "tcmallimage":"https://benoycdn.azureedge.net/files/projects/the-chanakya/_mediumImage/cham.jpg",
+            "tcfloorimages":[""],
+            "tcid":10,
+            "tcfloors":4,
+            "tcshopphone":[],
+            "tcshopnumbers":1,
+            
+        
+        
+            "ccname": "City Center",
+            "ccdis": "Rohini Sector 10, Delhi",
+            "ccshops":[""],
+            "ccmallimage":"https://static.zingyhomes.com/projectImages/cache/8a/c9/8ac96c9eaae84f85bb876dfa2b2f53bc.jpg",
+            "ccfloorimages":[""],
+            "ccid":11,
+            "ccshopphone":[],
+            "ccshopnumbers":1,
+            "ccfloors":4,
+            
+        
+        
+            "cmname": "Central Mall",
+            "cmdis": "Rohini Sector 10, Delhi",
+            "cmshops":[""],
+            "cmmallimage":"https://images.jdmagicbox.com/comp/gurgaon/06/011p283206/catalogue/central-mall-gurgaon-sector-25-gurgaon-malls-nsd4jp.jpg?clr=#808080",
+            "cmfloorimages":[""],
+            "cmid":12,
+            "cmshopphone":[],
+            "cmfloors":4,
+            "cmshopnumbers":1,
+            
+
+            "dsname": "DLF avenue",
+            "dsdis": "Press Enclave Marg, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
+            "dsshops":[""],
+            "dsmallimage":"https://www.retail4growth.com/public/thumbs/news/2020/01/4799/DLF_Thumnail_440_851.jpg",
+            "dsfloorimages":[""],
+            "dsid":13,
+            "dsshopphone":[],
+            "dsfloors":4,
+            "dsshopnumbers":1,
+            
+
+            "amname": "Ambience Mall",
+            "amdis": "Plot No, 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi",
+            "amshops":[""],
+            "ammallimage":"https://media-cdn.tripadvisor.com/media/photo-s/0b/07/bb/b8/luxurious-inside.jpg",
+            "amfloorimages":[""],
+            "amid":14,
+            "amshopphone":[],
+            "amshopnumbers":1,
+            "amfloors":4,
+            
+
+            "pmname": "Pacific Mall",
+            "pmdis": "Najafgarh Rd, Tagore Garden, New Delhi",
+            "pmshops":[""],
+            "pmmallimage":"https://www.pacificmalls.in/tagore-garden/images/Home-Banner-Mall-View.jpg",
+            "pmfloorimages":[""],
+            "pmid":15,
+            "pmshopphone":[],
+            "pmshopnumbers":1,
+            "pmfloors":4,
+            
+
+            "scname": "Select City Mall",
+            "scdis": "A-3, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
+            "scshops":[""],
+            "scfloors":4,
+            "scmallimage":"https://upload.wikimedia.org/wikipedia/commons/4/4b/SelectCityWalkMall.jpg",
+            "scfloorimages":[""],
+            "scid":16,
+            "scshopphone":[],
+            "scshopnumbers":1
+            
+
+
+
+        
+    }
+
+   
+   
