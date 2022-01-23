@@ -1,0 +1,15 @@
+{
+    "oadis":"Pari Chowk, NRI City, Ansal Golf Link -1, Greater Noida",
+    "oashops":[""],
+    "oafloorimages":["https://www.zricks.com/ImagesPostProject/200000000000215364/Atrium_Ground_Floor.jpg",
+        "https://www.zricks.com/ImagesPostProject/200000000000215364/Ground_Floor.jpg",
+        "https://www.zricks.com/ImagesPostProject/200000000000215364/Upper_Ground_Floor.jpg",
+    "https://www.zricks.com/ImagesPostProject/200000000000215364/First_Floor.jpg",
+"https://www.zricks.com/ImagesPostProject/200000000000215364/Second_Floor.jpg"],
+    "oaid":4,
+    "oafloornames":["LG","G","1","2","3","4"],
+    "oashopphone":[],
+    "oashopnumbers":5,
+    "oafloors":10,
+    "oa":10
+}
