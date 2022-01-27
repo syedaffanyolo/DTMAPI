@@ -5,7 +5,73 @@
     
     "vsfloorimages":[""],
    
-    "vsfloors":4
+    "vsfloors":4,
   
+    
+
+
+   
+    "tcdis": "Yashwant Place Commercial Complex Opposite Chanakyapuri Post Office, Chanakyapuri, New Delhi",
+    
+    "tcfloorimages":[""],
+    
+    "tcfloors":4,
+   
+    
+
+
+  
+    "ccdis": "Rohini Sector 10, Delhi",
+    
+    "ccfloorimages":[""],
+   
+    
+    "ccfloors":4,
+    
+
+
+    "cmname": "Central Mall",
+    "cmdis": "Rohini Sector 10, Delhi",
+    "cmshops":[""],
+    "cmmallimage":"https://images.jdmagicbox.com/comp/gurgaon/06/011p283206/catalogue/central-mall-gurgaon-sector-25-gurgaon-malls-nsd4jp.jpg?clr=#808080",
+    "cmfloorimages":[""],
+    "cmid":12,
+    "cmshopphone":[],
+    "cmfloors":4,
+    "cmshopnumbers":1,
+    
+
+   
+    "dsdis": "Press Enclave Marg, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
+    
+    "dsfloorimages":[""],
+ 
+    "dsfloors":4,
+  
+    
+
+    
+    "amdis": "Plot No, 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi",
+   
+    "amfloorimages":[""],
+   
+    "amfloors":4,
+    
+
+ 
+    "pmdis": "Najafgarh Rd, Tagore Garden, New Delhi",
+   
+    "pmfloorimages":[""],
+    
+    "pmfloors":4,
+    
+
+   
+    "scdis": "A-3, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
+    
+    "scfloors":4,
+  
+    "scfloorimages":[""]
+    
 
 }
