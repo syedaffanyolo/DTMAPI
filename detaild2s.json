@@ -11,7 +11,25 @@
     {"Aurelia":"11am - 10pm"},
     {"MULMUL":"11am - 10pm"},
     {"Woodland":"11am - 10pm"},
-    {"Sirene shoppers":"11am - 10pm"}
+    {"Sirene shoppers":"11am - 10pm"},
+    {"DECATHLON":"11am - 10pm"},
+    {"NEW U":"11am - 10pm"},
+    {"Swiss Arabian":"11aam - 10pm"},
+    {"Nail Rituals":"11am - 10pm"},
+    {"Lotus":"11am - 10pm"},
+    {"Miniso":"11am - 10pm"},
+    {"Urban Roots":"11am - 10pm"},
+    {"Pegasus":"11am - 10pm"},
+    {"Portronics":"11am - 10pm"},
+    {"VIP":"11am - 10pm"},
+    {"BATA":"11am - 10pm"},
+    {"METRO SHOES":"11am - 10pm"},
+    {"CHAAYOS":"11am - 10pm"},
+    {"Twisting Scoops":"11am - 10pm"},
+    {"Go Pure Ice-Cream":"11am - 10pm"},
+    {"KFC":"11am - 10pm"},
+    {"Popcorn & Co.":"11am - 10pm"}
+
 
 
 ],
@@ -37,7 +55,35 @@
     {"Shingora":"11am - 10pm"},
     {"RAMA WATCH BOUTIQUE":"11am - 10pm"},
     {"Daniel Wellington":"11am - 10pm"},
-    {"Rado":"11am - 10pm"}
+    {"Rado":"11am - 10pm"},
+    {"NIKE":"11am - 10pm"},
+    {"Under Armour":"11am - 10pm"},
+    {"FOREST ESSENTIAL":"11am - 10pm"},
+    {"MAC":"11am - 10pm"},
+    {"The Body Shop":"11am - 10pm"},
+    {"Nykaa Luxe":"11am - 10pm"},
+    {"Kiko Milano":"11am - 10pm"},
+    {"Colorbar":"11am - 10pm"},
+    {"Coloressence":"11am - 10pm"},
+    {"Perfume Point":"11am - 10pm"},
+    {"Revlon":"11am - 10pm"},
+    {"Sugar":"11am - 10pm"},
+    {"Amazon":"11am - 10pm"},
+    {"Dell":"11am - 10pm"},
+    {"Lenovo":"11am - 10pm"},
+    {"Phone Factory":"11am - 10pm"},
+    {" Sunglass Hut":"11am - 10pm"},
+    {"Fossil":"11am - 10pm"},
+    {"Da Milano":"11am - 10pm"},
+    {"Beau Monde":"11am - 10pm"},
+    {"Scoobies":"11am - 10pm"},
+    {"DUNE LONDON":"11am - 10pm"},
+    {"Rosso Brunello":"11am - 10pm"},
+    {"Onitsuka Tiger":"11am - 10pm"},
+    {"STARBUCKS":"11am - 10pm"},
+    {"IHOP":"11am - 10pm"},
+    {"Honey & Dough":"11am - 10pm"}
+
 
 ],
 
@@ -66,7 +112,31 @@
     {"Mia":"11am - 10pm"},
     {"Melorra":"11am - 10pm"},
     {"ORRA":"11am - 10pm"},
-    {"Adidas":"11am - 10pm"}
+    {"Adidas":"11am - 10pm"},
+    {"PUMA":"11am - 10pm"},
+    {"Reebok":"11am - 10pm"},
+    {"SKECHERS":"11am - 10pm"},
+    {"New Balance":"11am - 10pm"},
+    {"Kama Ayurveda":"11am -10pm"},
+    {"KAYA":"11am - 10pm"},
+    {"The Tattoo Shop":"11am - 10pm"},
+    {"Rhapsody":"11am - 10pm"},
+    {"The Man Company":"11am - 10pm"},
+    {"Brillare":"11am - 10pm"},
+    {"Ishnamma":"11am - 10pm"},
+    {"APPLE SERVICE CENTER":"11am - 10pm"},
+    {"Samsung":"11am - 10pm"},
+    {"Lenskart":"11am - 10pm"},
+    {"Samsonite":"11am - 10pm"},
+    {"All Things Sundar":"11am - 10pm"},
+    {"Titan Eye Plus":"11am - 10pm"},
+    {"Inc.5":"11am - 10pm"},
+    {"D'shoe Lounge":"11am - 10pm"},
+    {"Crocs":"11am - 10pm"},
+    {"Hush Puppies":"11am - 10pm"},
+    {"Clarks":"11am - 10pm"},
+    {"Gelato Vinto":"11am - 10pm"},
+    {"House Of Candy":"11am - 10pm"}
 
 
 
@@ -75,9 +145,75 @@
 ],
 
    "pmshops2":[{"ICONIC Kids":"11am - 10pm"},
-{"MotherCare":"11am - 10pm"}],
+{"MotherCare":"11am - 10pm"},
+{"Oud Arabia":"11am - 10pm"},
+{"Clips for Chics":"11am - 10pm"},
+{"PURE HOME + LIVING":"11am - 10pm"},
+{"SUGAR & SPICE":"11am - 10pm"},
+{"Cafe Delhi Heights":"11am  - 10pm"},
+{"CHILI’S":"11am - 10pm"},
+{"Jamie Pizzeria":"11am - 10pm"},
+{"Daryaganj":"11am - 10pm"},
+{"Dhansoo Cafe":"11am - 10pm"},
+{"Cafeteria and Co.":"11am -  10pm"},
+{"Taco Bell":"11am - 10pm"},
+{"Dunkin' Donuts":"11am - 10pm"},
+{"Dolce Gelato":"11am - 10pm"},
+{"Mr. Corn":"11am - 10pm"},
+{"The Roll Joint":"11am - 10pm"},
+{"Cafe Chennai":"11am - 10pm"},
+{"Kings Kulfi":"11am - 10pm"}
 
-   "pmshops3":[{"SPAR":"11am - 10pm"}]
+
+
+
+],
+
+   "pmshops3":[{"SPAR":"11am - 10pm"},
+   {"LOOKS SALON":"11am - 10pm"},
+   {"HOME CENTRE":"11am - 10pm"},
+   {"HAMLEYS":"11am - 10pm"},
+   {"Impression Toys":"11am - 10pm"},
+   {"Funky Island":"11am - 10pm"},
+   {"Timezone":"11am - 10pm"},
+   {"BIRYANI BLUES":"11am - 10pm"},
+   {"Castle Barbeque":"11am - 10pm"},
+   {"The Beer Cafe":"11am - 10pm"},
+   {"PVR Cinemas":"11am - 10pm"},
+   {"lock and load":"11am - 10pm"}
+
+
+
+
+],
+
+"pmshopsfoodcourt":[{"Mamagoto":"11am - 10pm"},
+   {"MAD OVER DONUTS":"11am - 10pm"},
+   {"Amritsari Express":"11am - 10pm"},
+   {"Domino's":"11am - 10pm"},
+   {"BONJUZ":"11am - 10pm"},
+   {"BURGER KING":"11am - 10pm"},
+   {"Gola Sizzlers":"11am - 10pm"},
+   {"HALDIRAM'S":"11am - 10pm"},
+   {"Keventers":"11am - 10pm"},
+   {"Khan Chacha":"11am - 10pm"},
+   {"Pizza Hut":"11am - 10pm"},
+   {"Wow Momo":"11am - 10pm"},
+   {"Shanghai Moon":"11am - 10pm"},
+   {"Street Foods by Punjab Grill":"11am - 10pm"},
+   {"SUBWAY":"11am - 10pm"},
+   {"Giani's":"11am - 10pm"},
+   {"The Belgian Waffle":"11am - 10pm"},
+   {"Karim's":"11am - 10pm"},
+   {"The Belgian Fries":"11am - 10pm"},
+   {"Asia 7":"11am - 10pm"},
+   {"Chicago Pizza":"11am - 10pm"},
+   {"Bercos":"11am - 10pm"},
+   {"Doner and Burger":"11am - 10pm"},
+   {"Samiyosa":"11am - 10pm"}
+
+]
+ 
 
 
 }
