@@ -1,53 +1,12 @@
 {
+    "oaname": "Omaxe Connaught Place",
     "oadis":"Greater Noida, Beta II, Noida, Uttar Pradesh 201310",
-    "oashopsg":[{"Pantaloons":"11am - 9:30pm "},
-                {"Reliance Trends":"11am - 9:30pm "},
-                {"Fabindia":"11am-8:30pm"},
-                {"Bata":"10am - 8:30pm"},
-                {"Looks Salaon":"10am - 8:30pm"},
-                {"Reliance Digital":"11am - 10 am"},
-                {"More Hypermarket":"10am - 9pm"},
-                {"Super 99":"10am - 9pm"},
-                {"Shree":"10am - 8pm"},
-                {"Max":"10am - 9pm"},
-                {"Loto":"11pm - 9pm"},
-                {"Shoppers Stop":"11pm - 9pm "}               
-        
-        
-        
-       
-
-        ],
-
-    "oashopug":[{"Raymond":"11:00 am - 9:30pm "},
-                {"Jockey":"11am - 9:30pm"},
-                {"Skechers":"10am - 9:30pm"},
-                {"Babyhug":"10:30am - 9pm"},
-                {"Duke":"10:30am - 9:30pm"},
-                {"Gini and Joy":"10am - 9pm"},
-                {"bonjour":"11am - 9am"}
-            
-            ],
-
-    "oashop1":[{"Lenskart":"11am - 9pm"},
-               {"Feno Walker":"11:30 am - 8:30pm"}
-            
-            ],
-
-    "oashop2":[{"Sagar Ratna":"11am - 11pm"},
-               {"Barbeque Nation":"12 - 3:45pm, 6 - 11pm"},
-               {"Pizza Hut":"12pm - 9:30 pm"},
-               {"Burger King":"11am - 11pm"},
-               {"Berco's":"12pm - 11pm "},
-               {"Nazeer Delicacies":"10:30 am - 11pm"},
-               {"Inox Cinema":"8am - 11pm "},
-               {"Trampoline Park":"11am - 9pm"} 
-    
-    ],
-    "oafloorimages":[],
+    "oafloorimages":[""],
     "oaid":4,
     "oafloornames":["G","1","2","3"],
-    "oashopphone":[],
+    "oashopphone":["095608 74525","","099905 14484","","098116 42400","01207188193","093550 03922","0120- 7188148","078270 00200","",
+    "088020 67268","01207188177","","0120 718 8139","0120 718 8140","","","","8750396286","099998 35877","080 6902 8727","1800 202 2022",
+"7738700433","095607 80786","090828 49907"," 099999 99854"],
     "oashopnumbers":5,
     "oafloors":10,
     "oa":10

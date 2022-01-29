@@ -1,0 +1,12 @@
+{
+    "scname": "Select City Mall",
+    "scdis": "A-3, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
+    
+    "scfloors":4,
+    "scmallimage":"https://upload.wikimedia.org/wikipedia/commons/4/4b/SelectCityWalkMall.jpg",
+    "scfloorimages":[""],
+    "scid":16,
+    "scshopphone":[],
+    "scshopnumbers":1
+
+}

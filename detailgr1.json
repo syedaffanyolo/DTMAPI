@@ -1,17 +1,11 @@
 
 {
-"mmdis": "Kasana Road Swarn Nagari,Greater noida, Greater Noida 201308 India",
-            "mmshopg":[{"Dominos":"11:00 am - 11:00 pm"},
-                       {"Haldiram's":"10am - 10pm"},
-                       {"Pothi Vitaran Kendra Book Shop":"11am - 8.30pm "},
-                       {"Gini & Jony":" 11am - 10 pm"}],
-
-            "mmshop3":[{"Inox Cinema":"depends on movie timmings"}],
-
-
-            "mmfloorimages":["https://media-cdn.tripadvisor.com/media/photo-s/10/55/72/f9/exterior-and-interior.jpg"],
+    "mmname": "MSX Mall",
+    "mmdis": "Kasana Road Swarn Nagari,Greater noida, Greater Noida 201308 India",
+            "mmfloorimages":[""],
             "mmid":2,
-            "mmshopphoneg":[ "18002081234","01202681197","09891011561","09899685047" ],
+            "mmshopphoneg":[ "18002081234","01202681197","09891011561","09899685047","095824 66241","9891067007","9837719490",
+                "9953567212","9711004374","9540324066","","9350207475","9312121240","" ],
             "mmshopnumbers":10,
             "mmfloors":4,
             "mmfloornames":["G","1","2","3"]

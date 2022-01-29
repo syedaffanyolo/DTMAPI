@@ -1,4 +1,5 @@
-{"lcdis": "Noida sector 32",
+{
+    "lcdis": "Noida sector 32",
   
 "lcshopsLG":[{"Max":"11:00 AM to 9:30 PM"},
     {"Big Bazaar":""},
@@ -47,6 +48,5 @@
 ],
 "lcfloornames":["LG","G","1","2","3","4"],
 "lcfloors":6
-
 
 }
