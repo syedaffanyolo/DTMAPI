@@ -1,7 +1,10 @@
 {
     "oaname": "Omaxe Connaught Place",
     "oadis":"Greater Noida, Beta II, Noida, Uttar Pradesh 201310",
-    "oafloorimages":[""],
+    "oafloorimages":["https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/OmaxeConnaughtPlace_GreaterNoida_GF.jpg",
+    "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/OmaxeConnaughtPlace_GreaterNoida_UGF.jpg",
+"https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/OmaxeConnaughtPlace_GreaterNoida_FF.jpg",
+"https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/OmaxeConnaughtPlace_GreaterNoida_SF.jpg"],
     "oaid":4,
     "oafloornames":["G","1","2","3"],
     "oashopphone":["095608 74525","","099905 14484","","098116 42400","01207188193","093550 03922","0120- 7188148","078270 00200","",
