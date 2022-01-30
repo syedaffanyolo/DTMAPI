@@ -2,48 +2,6 @@
     "dmname": "DLF Mall",
     "dmdis": "Sector 18, Noida",
 
-    "dmshopG":[{"Marks & Spencer":"11am - 9pm"},
-                {"Starbucks":"11am - 9pm"},
-                {"Zara":"11am - 9:30pm"},
-                {"H&M":"11am: 9:00pm"},
-                {}
-
-                
-    
-
-    ],
-
-    "dmshop1":[{"United colors of Benettton":"11am - 10pm"},
-        {"Pantaloons":"11am - 9pm"},
-        {"Lifestyle":"11am - 9pm"}
-
-    
-    
-    
-    ],
-
-    "dmshop2":[{"Aurelia":"11am - 9pm"},
-    {"Van Heusen women ":" 11am -9pm"},
-    {"Allen Solly Women":" 11am - 9pm "}
-
-    
-    ],
-
-    "dmshop3":[{}],
-
-    "dmshop4":[{"Hamley's":"11am -11pm"},
-        {"fun city":"11am - 10pm"},
-        {"Smaash":"11am - 9:30pm"}
-    
-    
-    ],
-    
-    "dmshopLG":[{"Home centre":" 11pm - 9pm"},
-    {"Big Baazar":"11am - 9pm"},
-    {}
-
-
-],
 
     "dmfloorimages":["https://image.winudf.com/v2/image1/Y29tLmFzc3Vzb2Z0LmVtYWxsLmRsZmluZGlhX3NjcmVlbl8zXzE1NjAzMDYxMDhfMDY1/screen-3.jpg?fakeurl=1&type=.jpg",
         "https://www.zricks.com/ImagesPostProject/200000000000204112/2adff08a-5f23-493a-af3c-b6d51bc7afc7.jpg",
