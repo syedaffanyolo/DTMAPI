@@ -1,22 +1,28 @@
 {
-    "mmshopg":[{"Dominos":"11:00 am - 11:00 pm"},
-        {"Haldiram's":"10am - 10pm"},
-        {"Pothi Vitaran Kendra Book Shop":"11am - 8.30pm "},
-        {"Gini & Jony":" 11am - 10 pm"},
-     {"Kathi Junction":"11am - 10:30pm"},
- {"Fashion Bat and Gift Casino":"11am - 10am"},
- {"Beauty Looks Salon":"10am - 9pm"},
- {"Vini collection":""},
- {"Aakura Salon":"10am - 8pm"},
- {"Pacific Salon":"10am -9pm"},
- {"The Gift Land":""},
- {"Ocean Fish Aquarium Home and Pet Shop":"10:30am - 10pm"},
- {"Honey Mobile Point":"10am - 9pm"}
-],
+    "mmshopg":{
+        "names":["Dominos","Haldiram's","Pothi Vitaran Kendra Book Shop","Gini & Jony","Kathi Junction","Fashion Bat and Gift Casino",
+      "Beauty Looks Salon","Vini collection","Aakura Salon","Pacific Salon","The Gift Land","Ocean Fish Aquarium Home and Pet Shop",
+      "Honey Mobile Point"],
+      "time":["11:00 am - 11:00 pm","10am - 10pm","11am - 8.30pm ","11am - 10 pm","11am - 10:30pm","11am - 10am",
+    "10am - 9pm","","10am - 8pm","10am -9pm","","10:30am - 10pm","10am - 9pm"]
+     },
 
-"mmshop3":[{"Inox Cinema":"Currently Closed"}],
 
-"mmshopphoneg":[ "18002081234","01202681197","09891011561","09899685047","095824 66241","9891067007","9837719490",
+        
+        
+        
+        
+        
+        
+        
+       
+
+"mmshop3":{
+    "names":["Inox Cinema"],
+    "time":"Currently Closed"
+},
+
+"mmshopphoneg":["18002081234","01202681197","09891011561","09899685047","095824 66241","9891067007","9837719490",
     "9953567212","9711004374","9540324066","","9350207475","9312121240","" ]
 
 }

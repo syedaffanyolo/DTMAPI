@@ -1,28 +1,25 @@
 {
-    "apshopsaf":[{"Croma":"11am - 9pm"},
-        {"Reliance Smart":" 10am- 9.30pm"},
-        {"The Jockey Store":"11am - 9pm "},
-        {"Mac Donalad's":"10am – 11pm"},
-        {"Fabindia":"11:00 AM – 8:00 PM"},
-        {"Meena Bazaar":"10am - 9pm"},
-        {"Levi's":"10am - 10pm "},
-        {"Puma":"11am - 9 pm"},
-        {"Samsung":"11am - 8.30pm"},
-        {"Peter England":"9am - 10pm"},
-        {"Lee":"10:30 am - 9:30 pm"}
+    "apshopsaf":{
+          "names":["Croma","Reliance Smart","The Jockey Store","Mac Donalad's","Fabindia","Meena Bazaar",
+        "Levi's","Puma","Samsung","Peter England","Lee"],
 
-],
-"apshopsg":[{"Archies":"10am - 9pm"},
-       {"Creme Castle":"10am - 10pm"},
-       {"KFC":"11am - 11pm"},
-       {"Raymond":"10am - 9pm "},
-       {"Pizza Hut":"11am - 9pm"},
-       {"Reliance Digital":"10am - 9:30pm"},
-       {"Reliance Trends":"11am - 9.30pm"}
+        "time":["11am - 9pm","10am- 9.30pm","11am - 9pm ","10am - 11pm","11:00 AM - 8:00 PM","10am - 9pm",
+        "10am - 10pm ","11am - 9 pm","11am - 8.30pm","9am - 10pm","10:30 am - 9:30 pm"]
 
-],
+    },
+    
 
-"apshop2":[{"PVR Cinemas":"10am - 11pm"}],
+"apshopsg":{
+    "names":["Archies","Creme Castle","KFC","Raymond","Pizza Hut","Reliance Digital","Reliance Trends"],
+    "time":["10am - 9pm","10am - 10pm","11am -11pm","10am - 11pm","10am - 9pm","11am - 9pm","10am- 9.30pm","11am - 9:30pm"]
+},
+
+
+"apshop2":{
+    "name":["PVR Cinemas"],
+    "time":["10am- 11pm"]
+},
+
 
 "apshopphone":["","","","","011 6600 0666","","0120 457 2227","0120 416 4194",""," 099585 94359","0120 429 1110",""," 0120 412 4013",
     "095608 04738","080 4275 4444"," 0120 429 3699","1800 202 2022","0120 431 4391","0120 408 2502",""]

@@ -7,5 +7,10 @@
             "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/dlfplace_saket_FF.jpg",
             "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/dlfplace_saket_SF.jpg"
         ],
-    "dsfloors":3
+    
+    "dsfloorname":["G","1","2"],
+        "dsfloors":3,
+        "floornameg":45,
+        "floorname1":37,
+        "floorname2":7
 }  

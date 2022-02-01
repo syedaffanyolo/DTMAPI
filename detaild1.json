@@ -5,7 +5,11 @@
     "https://www.thechanakya.com/wp-content/uploads/sites/8/2018/11/first-scaled-1.jpg",
 "https://www.thechanakya.com/wp-content/uploads/sites/8/2018/11/second-scaled-1.jpg"],
     "tcfloors":"4",
-    "tcfloorname":["LG","G","1","2"]
+    "tcfloorname":["LG","G","1","2"],
+    "floorlgsn":3,
+    "floorgsn":10,
+    "floor1sn":1,
+    "floor2sn":10
            
 
 }          

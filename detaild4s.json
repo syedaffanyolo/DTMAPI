@@ -137,9 +137,12 @@
 {"Beau Monde":"10am - 8pm"}
 ],
 
-"scshops3":[{"Good Earth":"10am - 8pm"},
+"scshops3":[
+    
+    {"Good Earth":"10am - 8pm"},
 {"Hangout":"10am - 8pm"},
-{"Hamleys":"10am - 8pm"}],
+{"Hamleys":"10am - 8pm"}
+],
 
 "scshops4":[{"Hangout":"10am - 8pm"}],
 

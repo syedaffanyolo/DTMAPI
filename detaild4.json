@@ -2,14 +2,18 @@
     "scname": "Select City Mall",
     "scdis": "A-3, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
     
-    "scfloors":4,
+    "scfloors":6,
+    "scfloorname":["LG","G","1","2","3","4"],
     "scmallimage":"https://upload.wikimedia.org/wikipedia/commons/4/4b/SelectCityWalkMall.jpg",
     "scfloorimages":["",
     "https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2017/09/Floor_plan_ground_img1.png",
 "https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2017/09/First-Floor-1.png",
 "https://www.popup72.com/Uploads/Spec/636896710842019617.jpg",
-"https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2017/09/Layer-3.png"],
+"https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2017/09/Layer-3.png",
+"https://drive.google.com/file/d/149zpqGze_eoS-jFELpLi6voT5YrBRas7/view?usp=sharing",
+"https://i1.wp.com/www.indiaretailing.com/wp-content/uploads/2018/07/hang-out.jpg?fit=681%2C400&ssl=1"
+],
     "scid":16,
-    "scshopnumbers":1
+    "scshopnumbers":5
 
 }
