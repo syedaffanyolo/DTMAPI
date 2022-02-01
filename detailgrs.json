@@ -2,41 +2,35 @@
      "gvshopslg": {
          "names":["Densi Bakery","H&M","LENSKART","iNvent"],
          "time":["11am-10pm","11am-8:30pm","11am-9:30pm","11am-9:30pm"]
-     }
+     },
         
      
 
-    "gvshopsg":[{"Lifestyle":"Open 11am - 9:30pm"},
-        {"Bata":"Open 11am - 9:30pm"},
-        {"Miniso":"11am - 8pm"},
-        {"Levi's":"Open 11am - 9:30pm"},
-        {"Skechers":"Open 11am - 9:30pm"},
-        {"Monte Carlo":"Open 11am - 9:30pm"},
-        {"Biba":"Open 11am - 9:30pm"},
-        {"W":"Open 11am - 9:30pm"},
-        {"Bonjour":"Open 11am - 9:00pm"},
-        {"Aurelia":"Open 11am - 9:30pm"},
-        {"Lifestyle":"Open 11am - 9:30pm"},
-        {"Puma":"Open 11am - 9:30pm"}
-
-    ],
-
-  
-  
-    "gvshopsug":[{"BIG BAZZAR":"Open 11am - 9:30pm"},
-        {"MARKET99":"Open 11am - 9:30pm"}
+    "gvshopsg": {
+        "names":["Lifestyle","Bata","Miniso","Levi's","Skechers","Monte Carlo","Biba",
+        "W","Bonjour","Aurelia","Lifestyle","Puma"],
+        "time":["Open 11am - 9:30pm","Open 11am - 9:30pm","Open 11am - 9:30pm","Open 11am - 9:30pm","Open 11am - 9:30pm","Open 11am - 9:30pm",
+            "Open 11am - 9:30pm","Open 11am - 9:30pm","Open 11am - 9:30pm"]
+    },
     
 
-    ],
+    "gvshopsug":{"names":["Big Bazzar","Market 99"],
+                "time":["Open 11am - 9:30pm","Open 11am - 9:30pm"]
 
-    "gvshops1":[{"Cinepolis":"Currently Closed"}],
+    
+    },
 
 
+    "gvshops1":{"names":["Cinepolis"],
+                 "time":"Currently Closed"},
+    
 
-
-    "gvshops2":[{"Food Court":"Open 11am - 10am"},
-    {"Maasti Zone":"Open 11am - 9:30am"}
-    ],
+    "gvshops2":{"names":["Food Court","Maasti Zone"],
+                "time":"Open 11am - 10am,Open 11am-9:30am"},
+    
+    
+    
+ 
 
     "gvshopphone":["8447908950","0120 475 5917"," 095823 51439","0120-4755947 or +91 9315078530","18001231555",
         "9999176008","098737 78850","","0120 475 5950","098711 12091","","","9759715491","","0120 475 5974","0120 475 5901",
