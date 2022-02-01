@@ -12,7 +12,11 @@
             "gvid":1,
             
             "gvfloors":5,
-            "gvshopnumbers":10
+            "gvsclg":4,
+            "gvscg":12,
+            "gvscug":2,
+            "gvsc1":1,
+            "gvsc2":2
             
 
 } 
