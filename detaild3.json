@@ -2,11 +2,10 @@
       
     "dsname": "DLF avenue",
     "dsdis": "Press Enclave Marg, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi",
-    "dsshops":[""],
     "dsmallimage":"https://www.retail4growth.com/public/thumbs/news/2020/01/4799/DLF_Thumnail_440_851.jpg",
     "dsfloorimages":["https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/dlfplace_saket_GF.jpg",
             "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/dlfplace_saket_FF.jpg",
             "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/dlfplace_saket_SF.jpg"
         ],
-    "dsshopphone":["","011 4615 0500","","011 4160 7218","088828 67757","011 4055 5923",""]
+    "dsfloors":3
 }  

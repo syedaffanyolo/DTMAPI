@@ -8,10 +8,18 @@
     "https://www.pacificmalls.in/tagore-garden/images/floor-plans/Ground-floor.jpg",
     "https://www.pacificmalls.in/tagore-garden/images/floor-plans/First-Floor.jpg",
     "https://www.pacificmalls.in/tagore-garden/images/floor-plans/Second-floor.jpg",
-    "https://www.pacificmalls.in/tagore-garden/images/floor-plans/Third-Floor.jpg"
+    "https://www.pacificmalls.in/tagore-garden/images/floor-plans/Third-Floor.jpg",
+    "https://www.pacificmalls.in/tagore-garden/images/Food-Court-banner-1.jpg"
 
     ],
 
-    "pmfloors":4
+    "pmfloors":6,
+    "floorlgsn":29,
+    "floorgsn":49,
+    "floor1sn":50,
+    "floor2sn":19,
+    "floor3sn":12,
+    "floorfcsn":24,
+    "pmfloornname":["LG","G","1","2","3","food court"]
     
 }

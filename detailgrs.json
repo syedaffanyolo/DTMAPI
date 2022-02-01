@@ -1,9 +1,10 @@
 {
-    "gvshopslg":[{"Densi Bakery":"11am-10pm"},
-        {"H&M":"Open 11am - 8:30pm"},
-        {"LENSKART":"Open 11am - 9:30pm"},
-        {"iNvent":"Open 11am - 9:30pm"}
-    ],
+     "gvshopslg": {
+         "names":["Densi Bakery","H&M","LENSKART","iNvent"],
+         "time":["11am-10pm","11am-8:30pm","11am-9:30pm","11am-9:30pm"]
+     }
+        
+     
 
     "gvshopsg":[{"Lifestyle":"Open 11am - 9:30pm"},
         {"Bata":"Open 11am - 9:30pm"},
