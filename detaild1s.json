@@ -1,47 +1,33 @@
 {
     
-  "tcshopslg":[{"Brunello Cucinelli ":"11am - 8pm"},
-    {"MKT":"11am - 8pm"},
-    {"FOODHALL":"11am - 8pm"}
+  "tcshopslg":{
+    "names":["Brunello Cucinelli","MKT","Foodhall"],
+    "times":["11am - 8pm","11am - 8pm","11am - 8pm"]
+  },
+  
 
 
+  "tcshopsg":{
+    "names":["Anita Dongre Grassroot","Saint Laurent","Creed","Hermes","Jaeger-LeCoultre",
+    "Panerai","Ralph Lauren","CAFÉ C","KHOYA","PVR ECX"],
+    "times":["11am- 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm",
+    "11am - 8pm","11:30am - 11:30pm"]
+  },
 
-],
 
-  "tcshopsg":[{"Anita Dongre Grassroot":"11 am - 8 pm"},
-    {"SAINT LAURENT":"11am - 8pm"},
-    {"Creed ":"11am - 8pm "},
-    {"HERMES":"11am - 8pm"},
-    {"Jaeger-LeCoultre":"11am - 8pm"},
-    {"PANERAI":"11am - 8pm"},
-    {"Ralph Lauren":"11am - 8pm"},
-    {"CAFÉ C":"11am - 8pm"},
-    {"KHOYA":"11am - 8pm"},
-    {"PVR ECX":"11:30am - 11:30pm"}
+  "tcshops1":{
+    "names":["Brooke & Carter","Ethos Summit","Gulabo","MONNALISA","MONT BLANC","PARO"],
+    "times":["11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm"]
+  },
+  
 
-],
 
-  "tcshops1":[{"Brooke & Carter":"11 am - 8 pm"},
-    {"Ethos Summit":"11am to 8pm"},
-    {"GULABO":"11am - 8pm"},
-    {"MONNALISA":"11am - 8pm"},
-    {"MONT BLANC":"11am - 8pm"},
-    {"PARO":"11am - 8pm"}
-
-],
-
-  "tcshops2":[{"Diesel":"11am - 8pm"},
-    {"Janavi India":"11am - 8pm"},
-    {"NOIR":"11am - 8pm"},
-    {"NYKAA LUXE":"11am - 8pm"},
-    {"OUTHOUSE":"11am - 8pm"},
-    {"Perona":"11am - 8pm"},
-    {"RANNA GILL":"11am - 8pm"},
-    {"TED BAKER LONDON":"11am - 8pm"},
-    {"THE COLLECTIVE DENIMS":"11am - 8pm"},
-    {"TIFFANY & CO.":"11am - 8pm"}
-
-  ],
+  "tcshops2":{
+    "names":["Diesel","Janvai India","NOIR","NYKAA LUXE","Outhouse","Perona","RANNA GILL",
+    "Ted Baker London","The Collective Denims","Tiffany & Co."],
+    "times":["11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm","11am - 8pm",
+    "11am - 8pm","11am - 8pm"]
+  },
 
   "tcshopphone":["9681123123","8376986799","9560604112","7290014086","7877123123","9354123123",
     "011 26885501","9873765282","9871533863","011 26888090","9999844570","8826831871","8800900009",
