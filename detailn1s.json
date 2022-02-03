@@ -1,40 +1,28 @@
 {
-    "dmshopG":[{"Marks & Spencer":"11am - 9pm"},
-        {"Starbucks":"11am - 9pm"},
-        {"Zara":"11am - 9:30pm"},
-        {"H&M":"11am: 9:00pm"},
-        {}
+    "dmsG":["Marks & Spencer","Starbucks","Zara","H&M"],
+    "tg":["11am - 9pm","11am - 9pm","11am - 9:30pm","11am - 9pm"],
+    "phg":["098217 94964","","0120 620 9742","0120 620 9791"],
 
-],
+"dm1":["United Colors of Benetton","Pantaloons","Lifestyle"],
+"t1":["11am-10pm","11am - 9pm","11am - 9pm"],
+"ph1":["0120 259 5022","","1800 123 1555"],
 
-"dmshop1":[{"United colors of Benettton":"11am - 10pm"},
-{"Pantaloons":"11am - 9pm"},
-{"Lifestyle":"11am - 9pm"}
+"dms2":["Aurelia","Van Heusen Women","Allen Solly Women"],
+"t2":["11am - 9pm","11am - 9pm","11am - 9pm"],
+"ph2":["0120 613 3261","0120 666 2601","0120 666 2316"],
 
+"dm3":["information currently unavailable"],
+"t3":["Information not found"],
+"ph3":[""],
 
-
-
-],
-
-"dmshop2":[{"Aurelia":"11am - 9pm"},
-{"Van Heusen women ":" 11am -9pm"},
-{"Allen Solly Women":" 11am - 9pm "}
-
-
-],
-
-"dmshop3":["information currently unavailable"],
-
-"dmshop4":[{"Hamley's":"11am -11pm"},
-{"fun city":"11am - 10pm"},
-{"Smaash":"11am - 9:30pm"}
+"dm4":["Hamley's","Fun City","Smaash"],
+"t4":["11am - 11pm","11am - 10pm","11am - 9:30pm"],
+"ph4":["","0120 620 9918","099993 11141"],
 
 
-],
+"dmLG":["Home Centre","Big Baazar"],
+"tLG":["11pm - 9pm","11am - 9pm"],
+"phLG":["1800 212 7500","0120 622 9541"]
 
-"dmshopLG":[{"Home centre":" 11pm - 9pm"},
-{"Big Baazar":"11am - 9pm"},
-{}
-]  
 
 }
