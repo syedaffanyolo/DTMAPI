@@ -1,23 +1,18 @@
 {
-    "ggshopg":[{"Wesstside":"11am - 9pm"},
-        {"Fcuk":"11am - 9pm"},
-        {"Cotton Culture":"11am - 8pm"},
-        {"VICTORIA FASHION JEWELLERY":"10:30am to 8:30"},
-        {"Levi's":"10am - 10pm"},
-        {"Allen Solly":"10:30pm to 9:30pm"},
-        {"Pantaloons":"12am - 10pm"}
+    "ggshopg":["Westside","Fcuk","Cotton Culture","Victoria Fashion Jewllery","Levi's","Allen Solly","Pantaloons"],
+    "tg":["11am - 9pm","11am - 9pm","11am - 8pm","10:30am- 8:30pm","10am - 1opm","10:30am-9:30pm","12am - 10pm"],
+    "phg":["8860317479","0120 242 8206","",""," 0120 466 2309","0120 676 5349","1800 103 7527"],
 
+"ggshop1":["Bata"],
+"t1":["11am- 9:30pm"],
+"ph1":["0120 259 5184"],
 
+"ggshop2":["Crossword"],
+"t2":["11am - 10:30am"],
+"ph2":["0120 622 9428"],
 
-],
-
-"ggshop1":[{"Bata":"11am to 9:30pm"}
-        
-],
-"ggshop2":[{"Crossword":"10:30am"}],
-
-"ggshop3":[{"Bercos":"12am - 11pm "}],
-"ggshopphones":["8860317479","0120 242 8206","",""," 0120 466 2309","0120 676 5349","1800 103 7527","0120 259 5184",
-    "0120 622 9428","0120 254 5376"]
+"ggshop3":["Bercos"],
+"t3":["12am - 11pm"],
+"ph3":["0120 254 5376"]
 
 }
