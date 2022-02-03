@@ -1,47 +1,32 @@
 {
-    "lcshopsLG":[{"Max":"11:00 AM to 9:30 PM"},
-        {"Big Bazaar":""},
-        {"Subway":" 10:00 AM to 11:00 PM"},
-        {"Reliance Trends":"11am to 9:30pm"},
-        {"Dunkin' Donuts":"11:00 AM to 9:30 PM"}
-    
-    ],
-    
-    "lcshopsG":[{"Samsung":""},
-                {"Pantaloons":"11am to 9:30 pm"},
-                {"Shoppers Stop":"11am to 9:30pm"},
-                {"Lenskart":"10 am to 10pm"},
-                {"Haldirams":"11am to 9:30pm"},
-                {"Cinnabon":"11am to 9pm"},
-                {"Levi's":"10:30am to 9:30pm"}
-    
-    
-    ],
-    
-    "lcshops1":[{"Reliance Digital":"11am to 9:30pm"},
-        {"Crossword":"11am to 9:30pm"},
-        {"Croma":"11am to 10 pm"},
-        {"Adidas":"10am to 9:30pm"},
-        {"Bata":"10:30am to 9pm"},
-        {"Global Desi":"10:30am to 9:30"}
-    
-    ],
-    
-    "lcshops2":[{"PVR Superplex":"8:30am to 11:30pm"},
-        {"Hamley's":"11am to 10pm"},
-        {"Fabindia":"11am to 10pm"},
-        {"Archies":"11am to  9pm"},
-        {"Looks unisex salon":"10:30am to 9pm"}
-    ],
-    
-    "lcshops3":[{"Food Court":"11am to 11pm"}],
-    
-    "lcshops4":[{"Skyhouse":"11am to 12am"},
-                {"Imperfecto":"12pm to 11pm"}
-    ],
+    "lcshopsLG":["Max","Big Bazaar","Subway","Reliance Trends","Dunkin' Donuts"],
+    "tLG":["11am - 9:30pm","","10am - 11pm","11am - 9:30pm","11am - 9:30pm"],
+    "phLG":["01207112179","01204216923","01207112171/72","01202471505","8067466725"],
 
-    "lcshopphone":["0120-7112179/78","0120-4216923","0120-7112171/72","0120-2471505","8067466725","093117 59550","0120-6999052",
-        "0120-2470014 / +91 95605015813","0120-4258247","8588000523","0120-7112129","0120-4579191","0120-7112136","0120-7112157","7207 666 000",
-        "0120-7112145","0120-7112152","9999 074 716","9717 111 614","0120-7112158","0120-7112124/25/26","0120-4519777","0120-7112165",
-        "","099991 23846"]
+
+    "lcshopsG":["Samsung","Pantaloons","Shoppers Stop","Lenskart","Haldirams","Cinnabon","Levi's"],
+    "tG":["","11am-9:30pm","11am - 9:30pm","10am - 10pm","11am - 9:30pm","11am - 9pm","10:30pm - 9:30pm"],
+    "phG":["093117 59550","01206999052","01202470014,95605015813","01204258247","8588000523","01207112129","01204579191"],
+    
+
+    
+    "lcshops1":["Reliance Digital","Crossword","Croma","Adidas","Bata","Global Desi"],
+    "t1":["11am - 9:30pm","11am - 9:30pm","11am - 10pm","10am - 9:30pm","10:30am - 9pm","10:30am - 9:30pm"],
+    "ph1":["01207112136","01207112157","7207 666 000","01207112145","01207112152","9999 074 716"],
+    
+    "lcshops2":["PVR Superplex","Hamley's","Fabindia","Archies","Loooks Unisex Salon"],
+    "t2":["8:30am - 11:30pm","11am - 10pm","11am- 10pm","11am - 9pm","10:30pm - 9pm"],
+    "ph2":["9717 111 614","01207112158","0120-7112124","01204519777","01207112165"],
+    
+    
+    "lcshops3":["Food Court"],
+    "t3":["11am - 11pm"],
+    "ph3":[""],
+
+    
+    "lcshops4":["skyhouse","imperfecto"],
+    "t4":["11am - 12am","12pm - 11pm"],
+    "ph4":["","099991 23846"]
+    
+
 }
