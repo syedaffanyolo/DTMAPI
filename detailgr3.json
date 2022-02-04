@@ -6,14 +6,14 @@
 "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/OmaxeConnaughtPlace_GreaterNoida_FF.jpg",
 "https://delhi-ncr.mallsmarket.com/sites/default/files/styles/large/public/photos/malls/floorplans/OmaxeConnaughtPlace_GreaterNoida_SF.jpg"],
     "oaid":4,
-    "oafloornames":["G","1","2","3"],
+    "oafloornames":["LG","G","1","2","3"],
 
-    "floorGsn":12,
-    "floorUGsn":7,
-    "floor1sn":2,
-    "floor2sn":8,
+    "floorLGsn":2,
+    "floorGsn":23,
+    "floor1sn":14,
+    "floor2sn":0,
+    "floor3sn":8,
     "oafloors":4
     
 
-    
 }
