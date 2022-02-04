@@ -1,14 +1,25 @@
 {
    
-    "apaf":["Croma","Reliance Smart","The Jockey Store","Mac Donalad's","Fabindia","Meena Bazaar",
-        "Levi's","Puma","Samsung","Peter England","Lee"],
-    "taf":["11am - 9pm","10am- 9.30pm","11am - 9pm ","10am - 11pm","11:00 AM - 8:00 PM","10am - 9pm",
-        "10am - 10pm ","11am - 9 pm","11am - 8.30pm","9am - 10pm","10:30 am - 9:30 pm"],
-    "phaf":["","","","011 6600 0666","","0120 457 2227","0120 416 4194","","099585 94359","0120 429 1110",""],
+    "apaf":["Croma","Mac Donalad's","Meena Bazaar","Puma","Samsung","Monte Carlo","Red Tape","Bonjour","iStor","Oppo","Silk and Satin",
+    "Jawed Habib Salon","Fenno Walker","Samsung","oppo","vivo","Nimmi Collection","Urban Sight","Zauk","Reid & Taylor","Octave",
+"Van Heusen","Meena bazaar","MS Hair Salon","Big B","Cobb","Red Apple Art Gallery","Siyarams","Istor","Cantabil","Bloom","jeeka",
+"Gini and Joy"],
+    
+"taf":["11am - 9pm","10am - 11pm","10am - 9pm","11am - 9 pm","11am - 8.30pm","10am - 10pm","10:30am - 9:30pm","11am - 9pm",
+    "10:30am - 10pm","11am - 9pm","10am - 8pm","10am - 8:30pm","11am - 9pm","","","","10:30am - 10pm","11am - 8:30pm","12pm - 11pm",
+"10am - 9pm","11am - 9pm","9am - 10pm","10am - 9pm","10am - 9pm","10am - 10pm","","","","10:30am - 10pm","10:30pm - 9:30pm","","",
+"10am - 8pm"],
+    
+"phaf":["","011 6600 0666","0120 457 2227","","099585 94359","0120 454 1415","093100 73991","0120 4119347","070110 01631",
+        "096544 89718","","099913 01138","095605 52337","","","","9711903341",""," 098105 06114","","0120 434 9111","0120 429 1362",
+    "0120 457 2227","081008 13989","","","088004 76908","","","0120 452 0295","","",""],
 
-"apg":["Archies","Creme Castle","KFC","Raymond","Pizza Hut","Reliance Digital","Reliance Trends"],
-"tg":["10am - 9pm","10am - 10pm","11am -11pm","10am - 11pm","10am - 9pm","11am - 9pm","10am- 9.30pm"],
-"phg":["0120 412 4013","095608 04738","080 4275 4444","0120 429 3699","1800 202 2022","0120 431 4391","0120 408 2502"],
+"apg":["Archies","Creme Castle","KFC","Raymond","Pizza Hut","Reliance Digital","Reliance Trends","Raj Nandini Estates",
+"The good deal","ASICS","Bakers Best","Fila","creme castle","Rootstock"],
+"tg":["10am - 9pm","10am - 10pm","11am -11pm","10am - 11pm","10am - 9pm","11am - 9pm","10am- 9.30pm","10am - 7pm","","","10am - 10pm",
+"","10am - 10pm",""],
+"phg":["0120 412 4013","095608 04738","080 4275 4444","0120 429 3699","1800 202 2022","0120 431 4391","0120 408 2502","","",
+"","9871190371","","095608 04738",""],
 
 "ap2":"PVR Cinemas",
 "t2":["10am - 11pm"],
